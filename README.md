@@ -1,7 +1,3 @@
-Gerne! Eine gute `README.md` ist die Visitenkarte deines Projekts. Sie hilft anderen (und dir selbst in sechs Monaten), zu verstehen, wie der Bot funktioniert und wie man ihn sicher nutzt.
-
-
----
 
 # 🚀 Advanced AHK ColorBot (Spiral Search Edition)
 
